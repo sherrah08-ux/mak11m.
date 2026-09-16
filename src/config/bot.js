@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Custom statues", // required by Discord API, not shown in the client
-        state: "𓈒♡ ゛/helpㅤ ͜𓏼 ̣̣˚  🥛⠀“ owner: v0devka  ”",     // this is what people actually see
+        state: "𓈒♡ ゛/helpㅤ ͜𓏼 ̣̣˚  🥛⠀“ owner: v0devka.  ”",     // this is what people actually see
         type: 4,               // Custom
       },
     ],
@@ -93,8 +93,8 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
-      secondary: "#2F3136",
+      primary: "ffe6fd",
+      secondary: "#ffe6fd",
 
       // Standard status colors for success/error/warning/info messages.
       success: "#57F287",
